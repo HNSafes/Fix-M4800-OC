@@ -4,9 +4,9 @@
 #VNSafes chia sẻ cho anh em full bộ cài đặt macOS Monterey 12.3.1 Opencore dành cho laptop Dell Presicion M4800.
 
 • Cấu hình máy: Dell Presicion M4800.                             
-• CPU: Core I7 4810 QM 4TH.                                      
+• CPU: Core I7 4910 QM 4TH.                                      
 • CARD: HD Graphics 4600.                                        
-• RAM: 8GG DDR3 BUS 1600.                     
+• RAM: 16GG DDR3 BUS 1867.                     
 
 Đây là bộ EFI mình tự build chuẩn nhất hệ mặt trời 😁😁🤪.                                                  
 Link Down: [Download Full Installer macOS Monterey 12.3.1 Laptop Zbook 15 G2 Opencore](https://drive.google.com/drive/u/5/folders/174gz8GFCX3R4FzfKBENAe5GgdIiojsqx)                       
